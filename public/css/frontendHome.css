@@ -1,0 +1,7 @@
+/* carusel indigator */
+.carousel-indicators li{
+  height: 10px!important;
+  width: 10px!important;
+  border-radius: 50%;
+  /* background-color: #d76056!important; */
+}
